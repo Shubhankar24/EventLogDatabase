@@ -55,7 +55,7 @@ Follow these steps to get a local copy of the project running:
 EventLoggerSystem/
 │
 ├── Controllers/
-│   └── LogsController.cs
+│   └── LogController.cs
 │
 ├── Models/
 │   └── Log.cs
@@ -69,7 +69,7 @@ EventLoggerSystem/
 │   │   └── Delete.cshtml
 │
 ├── Data/
-│   └── ApplicationDbContext.cs
+│   └── EventLogDb.cs
 │
 ├── appsettings.json
 ├── Program.cs
